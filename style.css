@@ -1,0 +1,33 @@
+.dark-mode-on{
+    background-color: rgb(38, 38, 54);
+    color: white;
+    
+    
+}
+
+.dark-mode-off{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+.right{
+    float: right;
+    
+}
+ul{
+    width: 20%;
+    margin: auto;
+    
+}
+
+
+li:hover{
+    transform: scale(1.1);
+    
+}
+
